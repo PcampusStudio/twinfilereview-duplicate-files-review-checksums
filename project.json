@@ -1,0 +1,41 @@
+{
+  "id": 82,
+  "category": "pc-utility",
+  "slug": "duplicate-files-review",
+  "target": "Local files",
+  "appid": null,
+  "summaryRu": "Проект поиска кандидатов-дубликатов с подтверждением хешей без автоматического удаления.",
+  "features": [
+    "Size prefilter report",
+    "Content hash verification",
+    "Manual review queue"
+  ],
+  "title": "TwinFileReview — Local files — Checksums",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "general-platform-context",
+      "sourceId": "windows-performance",
+      "detail": "General Windows performance context, not endorsement or validation of this proposed utility."
+    }
+  ],
+  "brand": "TwinFileReview",
+  "repositoryName": "twinfilereview-duplicate-files-review-checksums",
+  "githubTopics": [
+    "local-files",
+    "duplicate-files",
+    "content-hashing",
+    "manual-review",
+    "windows",
+    "pc-diagnostics",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "checksums"
+}
